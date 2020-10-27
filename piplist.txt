@@ -20,7 +20,7 @@ config==0.4.2
 constantly==15.1.0
 coreapi==2.3.3
 coreschema==0.0.4
-cryptography==2.8
+cryptography==3.2
 cssselect==1.1.0
 cycler==0.10.0
 debug==0.3.2
